@@ -1,0 +1,15 @@
+{
+  "name": "com.game.editor-extension",
+  "description": "Editor Extension",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "displayName": "Editor Extension",
+  "keywords": [
+    "graphics",
+    "performance",
+    "rendering",
+    "mobile",
+    "render",
+    "pipeline"
+  ]
+}
