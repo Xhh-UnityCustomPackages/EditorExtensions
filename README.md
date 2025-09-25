@@ -1,5 +1,7 @@
 # 编辑器增强
 
+https://github.com/Xhh-UnityCustomPackages/EditorExtensions.git?path=Packages/com.game.editor-extension
+
 ##### FolderTag 文件夹添加注释工具
 FolderTag:https://github.com/liyingsong99/FolderTag
 ##### ToolBarExtension 便利的ToolBar扩展工具
